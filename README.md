@@ -1,3 +1,7 @@
+# 用 react.js 和 firebase 写一个共同聊天室
+
+无聊学写的，轻喷
+就当着是种记录吧！
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
