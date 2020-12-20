@@ -14,13 +14,13 @@ require('dotenv').config();
 
 firebase.initializeApp({
   // config
-  apiKey: "AIzaSyASYKvn3tQe72OyEurGFPuXUfUWTDm_lJI",
-  authDomain: "react-chat-7c45c.firebaseapp.com",
-  projectId: "react-chat-7c45c",
-  storageBucket: "react-chat-7c45c.appspot.com",
-  messagingSenderId: "350629188301",
-  appId: "1:350629188301:web:d38dbcf7abfd7cb1494f84",
-  measurementId: "G-D5NJWSN57S",
+  apiKey: "apiKey",
+  authDomain: "authDomain",
+  projectId: "projectId",
+  storageBucket: "storageBucket",
+  messagingSenderId: "messagingSenderId",
+  appId: "appId",
+  measurementId: "measurementId",
 })
 
 const auth = firebase.auth();
